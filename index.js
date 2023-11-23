@@ -20,7 +20,7 @@ const PORT = 4000
 app.use(cors(corsOptions));
 
 mongoose.set("strictQuery", true);
-mongoose.connect("mongodb://localhost:27017/Onlyfats"),
+mongoose.connect("mongodb+srv://krishnabajpai28:Anime1234@cluster0.paxkpao.mongodb.net/?retryWrites=true&w=majority"),
   {
     useNewUrlParser: true,
   };
