@@ -10,8 +10,8 @@ const ProgramStart = () => {
                       <div className="bg-light rounded text-center p-5">
                           <i className="flaticon-six-pack display-1 text-primary" />
                           <h3 className="text-uppercase my-4">Body Building</h3>
-                          <p> Build muscle, strength, and definition with focused weight training and disciplined nutrition.
-Transform your physique with a structured routine designed for serious gains.</p>
+                          <p> Build muscle, strength, and definition with focused training and proper nutrition.
+Follow a structured routine designed for real, lasting gains.</p>
                       </div>
                   </div>
                   <div className="col-lg-4 col-md-6">
